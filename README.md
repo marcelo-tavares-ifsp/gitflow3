@@ -6,5 +6,6 @@ exemplo de aula
 - item 3
 
 | *nome*         | **idade** |
+|----------------|-----------|
 | Ana            |    24     |
 |Mario de Andrade|    21     |
